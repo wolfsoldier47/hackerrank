@@ -9,6 +9,27 @@ import (
 	"strings"
 )
 
+// Sample Input 0
+
+// 10 2 3
+// 3 1
+// 5 2 8
+// Sample Output 0
+
+// 9
+// Explanation 0
+
+// Buy the 2nd keyboard and the 3rd USB drive for a total cost of 8+1 = 9.
+
+// Sample Input 1
+
+// 5 1 1
+// 4
+// 5
+// Sample Output 1
+
+// -1
+
 /*
  * Complete the getMoneySpent function below.
  */
