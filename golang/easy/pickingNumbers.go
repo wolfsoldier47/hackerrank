@@ -9,6 +9,21 @@ import (
 	"strings"
 )
 
+// Input Format
+
+// The first line contains a single integer , the size of the array .
+// The second line contains  space-separated integers, each an .
+
+// Constraints
+
+// The answer will be .
+// Sample Input 0
+
+// 6
+// 4 6 5 3 3 1
+// Sample Output 0
+
+// 3
 /*
  * Complete the 'pickingNumbers' function below.
  *
